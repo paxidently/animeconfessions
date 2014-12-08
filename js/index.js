@@ -2878,7 +2878,7 @@ _html2canvas.Renderer.Canvas = function(options) {
     
     var   mw = 600
         , mh = 350
-        , ds = 15;
+        , ds = 16;
     
     
     var   text       = q('.text')
